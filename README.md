@@ -39,10 +39,10 @@ A modern, scalable Flutter web application for job recruitment, designed to matc
 
 ## Project Timeline
 
-- **Start time:** 2024-06-10 09:00 (Europe/Berlin)
-- **End time:** 2024-06-10 13:30 (Europe/Berlin)
+- **Start time:** 2024-12-26 09:00 
+- **End time:** 2024-12-26 13:30 
 - **Total time spent:** 4 hours 30 minutes
-- **Timezone:** Europe/Berlin (UTC+2)
+- **Timezone:** India (IST)(UTC+5:30)
 
 ## Notes & Assumptions
 
